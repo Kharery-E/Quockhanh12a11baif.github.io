@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <meta charset="utf-8">
+    <title>bai on tap so 2</title>
+   </head> 
+   <body><font face="Time New Romans">
+    <h1> Họ Tên: Đoàn Nguyễn Quốc Khánh - lớp 12a11</h1>
+    <h1><font face color="red">Chuẩn bị đi du lịch? Cẩm nang từ A-Z giúp bạn có kì nghỉ TRỌN VẸN</font></h1>
+    <p><strong>Đi du lịch không chỉ là niềm đam mê của những tín đò xê dịch mà bất kỳ ai cũng thích trải nghiệm này.</strong></p>
+<p><strong>Khám phá những vùng đất mới mang lại rất nhiều điều thú vị, giúp cho cuộc sống trở nên ý nghĩa hơn</strong></p>
+ <h1><strong>Mục lục</strong></h1>
+ <ol>
+     <li><a href="">Tìm hiểu chi tiết lợi ích của việc đi du lịch</a></li>
+     <li>Du lịch việt nam?</li>
+    <ul><li>Đi du lịch Nha Trang</li></ul>
+    <ul><li>Đi du lịch Phú Quốc</li></ul>
+    <ul><li>Đi du lịch Vũng Tàu</li></ul>
+    <ul><li>Đi du lịch gần Sài Gòn</li></ul>
+    <ul><li>Đi du lịch Đà Lạt</li></ul>
+    <li>Du lịch nước ngoài</li>
+    <ul><li>Đi du lịch Hàn Quốc</li></ul>
+    <ul><li>Đi du lịch Mỹ</li></ul>
+    <li>Kinh nghiệm đi du lịch, hành lý du lịch nên mang gì?</li>
+ </ol>
+ <h1> BẢNG GIÁ</h1>
+    <table border="1">
+        <tr >
+            <th>
+                Tên tour
+            </th>
+            <th>
+                Giá tour
+            </th>
+        </tr>
+        <tr>
+            <td>
+                StayFun Homestay - Vinhomes Ocean Park 2
+            </td>
+            <td>Giá công bố 400.000 VND</td>
+        </tr>
+        <tr>
+            <td>Tour Sapa từ thành phố Hồ Chí Minh (tp HCM)</td>
+            <td>2.250.000 đ/Khách</td>
+
+        </tr>
+
+    </table>
+   </body>
+</html>
